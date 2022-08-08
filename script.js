@@ -1,6 +1,6 @@
 const movieApi = {
   API_URL:
-    "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=79b10b587481ed5c1f71ed1c3fc28788&page=1&count=3",
+    "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=79b10b587481ed5c1f71ed1c3fc28788&page=1",
   IMG_PATH: "https://image.tmdb.org/t/p/w1280",
   SEARCH_URL:
     "https://api.themoviedb.org/3/search/movie?api_key=79b10b587481ed5c1f71ed1c3fc28788&query=",
